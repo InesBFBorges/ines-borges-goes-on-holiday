@@ -1,0 +1,25 @@
+{
+  "name": "pastyearvows",
+  "version": "1.0.0",
+  "description": "Countdown to my holiday",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InesBFBorges/ines-borges-goes-on-holiday.git"
+  },
+  "keywords": [
+    "countdown",
+    "holiday",
+    "ines",
+    "borges"
+  ],
+  "author": "Inês Borges",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InesBFBorges/ines-borges-goes-on-holiday/issues"
+  },
+  "homepage": "https://github.com/InesBFBorges/ines-borges-goes-on-holiday#readme"
+}
