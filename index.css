@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Nunito, monospace;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  background-color: hsl(0 0% 20%);
+  min-height: 100vh;
+  padding: 1rem;
+}
+
+#past-year-summarize {
+  width: min(100%, 500px);
+  display: none;
+}
+
+#past-year-summarize p{
+  color: hsl(123 100% 90%);
+  line-height: 1.5rem;
+  letter-spacing: 2px;
+}
+
+#time-to-holidays {
+  text-align: center;
+}
+
+.holiday-text {
+  color: hsl(123 100% 90%);
+  line-height: 2rem;
+}
+
+.days,
+.hours,
+.minutes,
+.seconds {
+  font-size: 2rem;
+}
