@@ -4,7 +4,7 @@
   "description": "Countdown to my holiday",
   "main": "index.js",
   "scripts": {
-    "start": "node servver.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
