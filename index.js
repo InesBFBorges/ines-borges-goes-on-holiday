@@ -6,7 +6,7 @@ const seconds = document.querySelector(".seconds");
 const timeToHolidaysSection = document.querySelector("#time-to-holidays");
 const pastYearSection = document.querySelector("#past-year-summarize");
 
-let holidayDate = new Date('2022', '6', '15', '12', '30', '00', '000');
+let holidayDate = new Date('2024', '7', '15', '17', '00', '00', '000');
 const holidayMilliseconds = holidayDate.getTime();
 
 differenceBetweenDates();
